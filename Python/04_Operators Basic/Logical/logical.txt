@@ -1,0 +1,39 @@
+Logical Operators:
+
+and, or ,not
+
+We can apply for all types.
+
+For boolean types behaviour:
+
+and ==>If both arguments are True then only result is True or ====>If atleast one arugemnt is True then result is True not ==>complement
+
+True and False ==>False True or False ===>True not False  ==>True
+
+For non-boolean types behaviour:
+
+0 means False
+non-zero means True
+empty string is always treated as False
+
+x and y:
+
+==>if x is evaluates to false return x otherwise return y
+
+Eg:
+10 and 20
+0 and 20
+
+If first argument is zero then result is zero otherwise result is y
+
+x or y:
+
+If x evaluates to True then result is x otherwise result is y
+
+10 or 20 ==> 10
+0 or 20 ==> 20
+
+not x:
+
+If x is evalutates to False then result is True otherwise False not 10  ==>False
+not 0 ==>True 

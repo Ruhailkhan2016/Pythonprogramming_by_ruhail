@@ -1,0 +1,8 @@
+Operator is a symbol that performs certain operations. Python provides the following set of operators
+
+1. Arithmetic Operators
+2. Relational Operators or Comparison Operators
+3. Logical operators
+4. Bitwise oeprators
+5. Assignment operators
+6. Special operators
